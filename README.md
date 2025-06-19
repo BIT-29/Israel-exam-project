@@ -35,6 +35,8 @@
 
 ##STEP 7: Final Checks & Deployment Assets
 -  Accessed my site via domain (https://bithub29.com.chickenkiller.com)
--  Took a screenshot of the live landing page
+-  Took a screenshot of the live landing page ![landing-page](https://github.com/user-attachments/assets/f0311acd-7de2-4866-a936-99834bff0037)
+
+
 -  Pushed my project to GitHub
 -  Included a polished README.md detailing my steps
